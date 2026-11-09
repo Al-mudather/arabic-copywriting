@@ -1,0 +1,7 @@
+{
+  "name": "arabic-copywriting",
+  "description": "Write and edit professional Arabic copy that readers understand on first read: no translationese, no foreign metaphors, correct grammar and punctuation, with a built-in Arabic linter.",
+  "version": "1.0.0",
+  "author": { "name": "Al-mudather" },
+  "license": "MIT"
+}

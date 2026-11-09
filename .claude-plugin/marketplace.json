@@ -1,0 +1,11 @@
+{
+  "name": "al-mudather-arabic-copywriting",
+  "owner": { "name": "Al-mudather" },
+  "plugins": [
+    {
+      "name": "arabic-copywriting",
+      "source": { "source": "github", "repo": "Al-mudather/arabic-copywriting" },
+      "description": "Professional Arabic copywriting and editing skill with a built-in linter."
+    }
+  ]
+}

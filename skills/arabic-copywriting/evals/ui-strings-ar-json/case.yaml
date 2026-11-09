@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: ui-strings-ar-json
+expected_outcome: |
+  Valid JSON with the 7 keys, short natural Arabic UI strings consistent with the Medsera glossary.

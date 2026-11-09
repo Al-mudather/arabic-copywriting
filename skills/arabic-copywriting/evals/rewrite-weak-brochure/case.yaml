@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: rewrite-weak-brochure
+expected_outcome: |
+  Five rewritten passages in plain natural Arabic: metaphors removed, false friends fixed, jargon replaced by what happens to the person.
+context:
+  scaffold_script: place-files.sh
